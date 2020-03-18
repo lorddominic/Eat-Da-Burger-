@@ -11,3 +11,6 @@ Dominic Xu dominictxu1@gmail.com
 ## Github Repository link
 
 https://github.com/lorddominic/Eat-Da-Burger-
+
+## Gif
+![Burger GIF](burger.gif)
