@@ -8,6 +8,8 @@ Dominic Xu dominictxu1@gmail.com
 
 ## deployed Heroku link
 
+https://sheltered-earth-09294.herokuapp.com/
+
 ## Github Repository link
 
 https://github.com/lorddominic/Eat-Da-Burger-
